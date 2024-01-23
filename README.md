@@ -20,3 +20,7 @@ Está probado con páginas simples, que sólo son html o html
 ## Requerimientos
 
 Inslatar `pandoc`en Ubuntu o sistema debian similar.
+
+## Autor
+
+Fue Bart, así que los autores originales deben estar acá en Github.
